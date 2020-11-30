@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>java基础</title>
+      <link href="pages/2020/11/27/"/>
+      <url>pages/2020/11/27/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> title </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>可恶呀，这个世界</title>
+      <link href="pages/2020/11/27/"/>
+      <url>pages/2020/11/27/</url>
+      
+        <content type="html"><![CDATA[<h2 id="快速构建"><a href="#快速构建" class="headerlink" title="快速构建"></a>快速构建</h2><h3 id="创建一个post"><a href="#创建一个post" class="headerlink" title="创建一个post"></a>创建一个post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>查看详情: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="运行hexo"><a href="#运行hexo" class="headerlink" title="运行hexo"></a>运行hexo</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>查看详情: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="生成静态文件"><a href="#生成静态文件" class="headerlink" title="生成静态文件"></a>生成静态文件</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>查看详情: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="发布站点"><a href="#发布站点" class="headerlink" title="发布站点"></a>发布站点</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>查看详情: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>

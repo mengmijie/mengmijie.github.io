@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>我的博客</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2020-11-27T09:35:18.841Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>mengmijie</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>java基础</title>
+    <link href="http://example.com/pages/2020/11/27/"/>
+    <id>http://example.com/pages/2020/11/27/</id>
+    <published>2020-11-27T09:28:19.000Z</published>
+    <updated>2020-11-27T09:35:18.841Z</updated>
+    
+    
+    
+    
+    
+    <category term="title" scheme="http://example.com/tags/title/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>可恶呀，这个世界</title>
+    <link href="http://example.com/pages/2020/11/27/"/>
+    <id>http://example.com/pages/2020/11/27/</id>
+    <published>2020-11-27T08:24:58.968Z</published>
+    <updated>2020-11-27T09:47:55.743Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;快速构建&quot;&gt;&lt;a href=&quot;#快速构建&quot; class=&quot;headerlink&quot; title=&quot;快速构建&quot;&gt;&lt;/a&gt;快速构建&lt;/h2&gt;&lt;h3 id=&quot;创建一个post&quot;&gt;&lt;a href=&quot;#创建一个post&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
